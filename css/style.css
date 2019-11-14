@@ -95,7 +95,7 @@ a:focus {
 .image-content{
     color: red;
     font-family: robotoblack;
-    font-size: 45px;
+    font-size: 68px;
     font-weight: bold;
     letter-spacing: 4px;
     text-transform: uppercase;
@@ -291,6 +291,9 @@ a:focus {
 .tv-service-content > p {
     text-align: justify;
 }
+.tv-service-content > h5 {
+    text-align: left;
+}
 .img-margin > img {
     margin-top: 12px;
 }
@@ -481,3 +484,4 @@ a:focus {
 {
     color:#f72100;
 }
+
